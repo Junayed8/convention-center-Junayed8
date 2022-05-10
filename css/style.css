@@ -1,0 +1,15 @@
+
+.check-list{
+    text-decoration: none;
+    margin-right: 5px;
+    background-color: none;
+}
+.third{
+    background-color: cadetblue;
+}
+.listed{
+    background-color: none;
+}
+.button{
+    background-color: white;
+}
