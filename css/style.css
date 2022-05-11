@@ -6,10 +6,28 @@
 }
 .third{
     background-color: cadetblue;
+    border-radius: 8px;
+    padding: 5px;
 }
 .listed{
     background-color: none;
 }
 .button{
     background-color: white;
+}
+.questions{
+    border: 1px solid;
+    background-color: gainsboro;
+    margin-top: 4px;
+    height: 75px;
+}
+.questions-1{
+    border: 1px solid;
+    background-color: gainsboro;
+    margin-top: 4px;
+  
+  height: 95px;
+}
+.foot{
+
 }
